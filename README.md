@@ -46,6 +46,7 @@ Focused on frontend architecture, performance optimization, API-driven systems, 
 
 ![NodeJS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
+![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logo=socketdotio)
 ![Razorpay](https://img.shields.io/badge/Razorpay-111827?style=for-the-badge&logo=razorpay)
 
 ### Database
