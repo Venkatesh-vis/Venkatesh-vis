@@ -1,87 +1,103 @@
-<h1 align="center">Hi 👋, I'm Venkatesh</h1>
+<div align="center">
 
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Backend+Engineer;Full+Stack+Engineer;MERN+Stack+Developer" 
-    alt="Typing SVG" 
-  />
-</h3>
+# Venkatesh Vishwanadula
 
-<p align="center">
-Building scalable web applications with modern JavaScript technologies.
-Focused on React ecosystem, backend development, and writing clean maintainable code.
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Backend+Engineer;Full+Stack+Engineer;React+%2B+TypeScript+Developer;MERN+Stack+Developer" 
+  alt="Typing SVG" 
+/>
+
+<p>
+Building scalable web applications with modern JavaScript and TypeScript technologies.
 </p>
 
----
+<p>
+Focused on frontend architecture, performance optimization, API-driven systems, and production-ready user experiences.
+</p>
 
-# 🚀 About Me
-
-- 💻 Frontend Developer with **1+ year of professional experience**
-- ⚛️ Specialized in **React.js** application development
-- 🌐 Skilled in building full-stack applications using the **MERN Stack**
-- 🧠 Interested in backend architecture, scalable systems, and performance optimization
-- 📚 Currently improving skills in **Node.js**, **System Design**, and **Distributed Systems**
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## About Me
 
-## Frontend
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Redux
-- Material UI
-
-## Backend
-- Node.js
-- Express.js
-
-## Database
-- MongoDB
-- MySQL
-
-## Tools & Platforms
-- Git & GitHub
-- Postman
-- AWS Basics
-- Vercel
-- Netlify
+- Frontend Developer with **1+ year of professional experience**
+- Specialized in building scalable applications using **React.js** and **TypeScript**
+- Experience working with reusable component systems, API integrations, and state-driven UI architectures
+- Strong interest in backend engineering, system design, and scalable application architecture
+- Continuously improving in **Node.js**, **Distributed Systems**, and performance optimization
 
 ---
 
-# 📂 Featured Skills
+## Tech Stack
 
-- REST API Integration
-- State Management
-- Responsive UI Development
-- Authentication & Authorization
-- CRUD Applications
-- API Handling
-- Component-Based Architecture
-- Performance Optimization
+<div align="center">
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css)
+![MaterialUI](https://img.shields.io/badge/MUI-111827?style=for-the-badge&logo=mui)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
+![Razorpay](https://img.shields.io/badge/Razorpay-111827?style=for-the-badge&logo=razorpay)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws)
+
+</div>
 
 ---
 
-# 🌐 Portfolio
+## Engineering Focus
 
-🔗 Portfolio Website  
+- Building scalable and reusable React component architectures
+- Developing type-safe frontend applications using TypeScript
+- Optimizing rendering performance and reducing unnecessary re-renders
+- Managing complex application state with predictable data flow
+- Designing maintainable frontend architectures for large-scale applications
+- Integrating REST APIs with robust loading and error handling patterns
+- Implementing authentication, protected routes, and role-based access systems
+- Integrating payment gateways and backend transaction workflows using Razorpay
+- Writing modular, production-oriented, and maintainable code
+
+---
+
+## Portfolio
+
+<div align="center">
+
+🔗 Portfolio  
 https://portfolio-sigma-ten-auyltbzoy2.vercel.app/
 
+</div>
+
 ---
 
-# 📫 Contact Me
+## Contact
+
+<div align="center">
 
 📧 Email  
 venkateshvishwanadula257@gmail.com
 
+<br/>
+
 💼 LinkedIn  
 https://www.linkedin.com/in/venkatesh-vishwanadula-57a53318b/
 
----
-
-# ⚡ Fun Fact
-
-I enjoy solving problems, building scalable applications, and continuously learning modern web technologies.
+</div>
