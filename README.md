@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Venkatesh Vishwanadula
@@ -72,7 +71,6 @@ Focused on frontend architecture, backend systems, API-driven applications, and 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-111827?style=for-the-badge&logo=mongoose&logoColor=880000)
 
 ## Development Tools & Cloud
@@ -80,10 +78,16 @@ Focused on frontend architecture, backend systems, API-driven applications, and 
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+
+---
+
+# Currently Learning
+
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=icloud&logoColor=FF9900)
 
 ---
 
@@ -96,10 +100,10 @@ Focused on frontend architecture, backend systems, API-driven applications, and 
 - Designing maintainable frontend architectures for large-scale applications
 - Integrating REST APIs with robust loading and error handling patterns
 - Implementing authentication systems and protected route workflows
-- Developing real-time applications using Socket.IO and Redis
+- Developing real-time applications using Socket.IO
 - Integrating payment gateways and transaction workflows using Razorpay
 - Setting up CI/CD workflows using GitHub Actions
-- Deploying applications using Docker, Vercel, and cloud platforms
+- Deploying applications using Vercel and cloud platforms
 - Writing modular, maintainable, and production-grade code
 
 ---
@@ -121,10 +125,6 @@ Focused on frontend architecture, backend systems, API-driven applications, and 
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Venkatesh-vis&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -135,6 +135,16 @@ Focused on frontend architecture, backend systems, API-driven applications, and 
 
 <div align="center">
 
-<a href="mailto:venkateshvishwanadula257@gmail.com"> <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> <a href="https://www.linkedin.com/in/venkatesh-vishwanadula-57a53318b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+<a href="mailto:venkateshvishwanadula257@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/venkatesh-vishwanadula-57a53318b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
