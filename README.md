@@ -3,30 +3,16 @@
 # Venkatesh Vishwanadula
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Frontend+Engineer;Backend+Engineer;Full+Stack+Engineer;React+%2B+TypeScript+Developer;MERN+Stack+Developer" 
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;MERN+Stack+Developer;React+%2B+Node.js+Developer;TypeScript+Developer;Frontend+%2B+Backend+Engineer" 
   alt="Typing SVG" 
 />
 
 <p>
-Building scalable, performant, and production-ready web applications using modern JavaScript and TypeScript technologies.
+Building scalable and production-ready full-stack web applications using React, Node.js, TypeScript, and modern JavaScript technologies.
 </p>
 
 <p>
-Focused on frontend architecture, backend systems, API-driven applications, and high-quality user experiences.
-</p>
-
-<p>
-  <a href="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:venkateshvishwanadula257@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/venkatesh-vishwanadula-57a53318b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+Focused on frontend architecture, backend systems, API integrations, real-time applications, and performant user experiences.
 </p>
 
 </div>
@@ -35,12 +21,12 @@ Focused on frontend architecture, backend systems, API-driven applications, and 
 
 # About Me
 
-- Frontend Engineer with **1+ year of professional experience**
-- Specialized in building scalable applications using **React.js**, **Next.js**, and **TypeScript**
-- Experience building reusable component systems, authentication workflows, API integrations, and state-driven UI architectures
-- Strong interest in backend engineering, distributed systems, and scalable application design
+- Full Stack Engineer with **1+ year of professional experience**
+- Experience building scalable web applications using **React.js**, **Next.js**, **Node.js**, and **TypeScript**
+- Built reusable frontend architectures, REST APIs, authentication systems, and real-time applications
+- Worked on API integrations, state management, backend workflows, and responsive UI systems
 - Passionate about writing clean, maintainable, and production-oriented code
-- Continuously improving in system design, backend scalability, and performance optimization
+- Continuously improving in scalable application design, performance optimization, and system architecture
 
 ---
 
@@ -84,58 +70,81 @@ Focused on frontend architecture, backend systems, API-driven applications, and 
 
 ---
 
-# Currently Learning
+# Engineering Focus
 
-![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=icloud&logoColor=FF9900)
+- Building scalable full-stack web applications using the MERN stack
+- Developing reusable and maintainable frontend architectures using React and TypeScript
+- Designing REST API-driven applications with predictable data flow
+- Implementing authentication systems and protected application workflows
+- Managing complex frontend and backend application state
+- Developing real-time applications and live update systems using Socket.IO
+- Integrating payment workflows using Razorpay
+- Optimizing application performance and reducing unnecessary re-renders
+- Writing modular, maintainable, and production-grade code
+- Building responsive and scalable user experiences across devices
 
 ---
 
-# Engineering Focus
+# Featured Projects
 
-- Building scalable and reusable React component architectures
-- Developing type-safe frontend applications using TypeScript
-- Optimizing rendering performance and reducing unnecessary re-renders
-- Managing complex application state with predictable data flow
-- Designing maintainable frontend architectures for large-scale applications
-- Integrating REST APIs with robust loading and error handling patterns
-- Implementing authentication systems and protected route workflows
-- Developing real-time applications using Socket.IO
-- Integrating payment gateways and transaction workflows using Razorpay
-- Setting up CI/CD workflows using GitHub Actions
-- Deploying applications using Vercel and cloud platforms
-- Writing modular, maintainable, and production-grade code
+## Ride-Hailing Application
+
+<p align="center">
+  <a href="http://uber-three-pi.vercel.app/" target="_blank">
+    <img 
+      src="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/assets/ride-B79WSVta.png"
+      alt="Uber Style Ride Hailing Application"
+      width="900"
+    />
+  </a>
+</p>
+
+<p align="center">
+
+<a href="http://uber-three-pi.vercel.app/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Live Demo"
+  />
+</a>
+
+<a href="https://github.com/Venkatesh-vis/Uber" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</p>
+
+- Built a full-stack ride-hailing platform using the MERN stack
+- Implemented real-time ride updates and live location tracking using Socket.IO
+- Developed REST APIs for authentication, ride management, and user workflows
+- Integrated JWT-based authentication and protected route systems
+- Managed frontend state and dynamic UI updates using React and Redux
+- Designed responsive and scalable user interfaces using React and Tailwind CSS
+- Integrated MongoDB for storing users, rides, and trip-related data
+- Focused on modular architecture, API-driven development, and production-oriented code
 
 ---
 
 # Areas of Interest
 
-- Frontend Architecture
+- Scalable Web Applications
 - Backend Systems
-- Distributed Systems
 - System Design
-- Performance Optimization
+- Distributed Systems
 - Real-Time Applications
 - API Design
-- Scalable Web Applications
+- Performance Optimization
+- Application Architecture
 
 ---
 
-# GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Venkatesh-vis&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Venkatesh-vis&label=Profile%20views&color=0e75b6&style=flat"
     alt="Profile views"
   />
-</div>
-
 
 
 ---
@@ -145,15 +154,24 @@ Focused on frontend architecture, backend systems, API-driven applications, and 
 <div align="center">
 
 <a href="mailto:venkateshvishwanadula257@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img 
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/venkatesh-vishwanadula-57a53318b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" 
+    alt="Portfolio"
+  />
 </a>
 
 </div>
