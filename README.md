@@ -101,19 +101,28 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 
 <p align="center">
 
-<a href="http://uber-three-pi.vercel.app/" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Live Demo"
-  />
-</a>
+<p align="center">
+  <a href="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/demo.mp4" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/▶_Watch_Full_Demo_Video-7C3AED?style=for-the-badge&logo=play&logoColor=white" 
+      alt="Watch Demo" 
+    />
+  </a>
 
-<a href="https://github.com/Venkatesh-vis/Uber" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+  <a href="http://uber-three-pi.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Live Demo"
+    />
+  </a>
+
+  <a href="https://github.com/Venkatesh-vis/Uber" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 
 </p>
 
@@ -125,6 +134,21 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 - Designed responsive and scalable user interfaces using React and Tailwind CSS
 - Integrated MongoDB for storing users, rides, and trip-related data
 - Focused on modular architecture, API-driven development, and production-oriented code
+
+---
+
+# LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Venkatesh_dev100/" target="_blank">
+  <img
+    src="https://leetcard.jacoblin.cool/Venkatesh_dev100?theme=dark&font=Karma&ext=contest"
+    alt="LeetCode Stats"
+  />
+</a>
+
+</div>
 
 ---
 
