@@ -37,7 +37,6 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Redux](https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux&logoColor=764ABC)
@@ -51,6 +50,7 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 ![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-111827?style=for-the-badge&logo=cloudinary&logoColor=3448C5)
 ![Razorpay](https://img.shields.io/badge/Razorpay-111827?style=for-the-badge&logo=razorpay&logoColor=3395FF)
 
 ## Database & ORM
@@ -177,10 +177,10 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 
 <div align="center">
 
-<a href="mailto:venkateshvishwanadula257@gmail.com">
+<a href="https://drive.google.com/file/d/1Q2oK5PNMrN2x4CGs3DvjbR5l9loJq6S8/view?usp=sharing" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Gmail"
+    src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" 
+    alt="Resume"
   />
 </a>
 
