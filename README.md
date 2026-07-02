@@ -85,55 +85,28 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 
 ---
 
-# Featured Projects
+# Projects
 
-## Ride-Hailing Application
+## AI-Powered Study Platform
 
 <p align="center">
-  <a href="http://uber-three-pi.vercel.app/" target="_blank">
-    <img 
-      src="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/assets/ride-B79WSVta.png"
-      alt="Uber Style Ride Hailing Application"
+  <a href="https://ai-learning-assistant-peach.vercel.app" target="_blank">
+    <img
+      src="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/assets/ai_app-B5Y_LHSD.png"
+      alt="AI-Powered Study Platform"
       width="900"
     />
   </a>
 </p>
 
-<p align="center">
-
-<p align="center">
-  <a href="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/demo.mp4" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/▶_Watch_Full_Demo_Video-7C3AED?style=for-the-badge&logo=play&logoColor=white" 
-      alt="Watch Demo" 
-    />
-  </a>
-
-  <a href="http://uber-three-pi.vercel.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Live Demo"
-    />
-  </a>
-
-  <a href="https://github.com/Venkatesh-vis/Uber" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
-</p>
-
-- Built a full-stack ride-hailing platform using the MERN stack
-- Implemented real-time ride updates and live location tracking using Socket.IO
-- Developed REST APIs for authentication, ride management, and user workflows
-- Integrated JWT-based authentication and protected route systems
-- Managed frontend state and dynamic UI updates using React and Redux
-- Designed responsive and scalable user interfaces using React and Tailwind CSS
-- Integrated MongoDB for storing users, rides, and trip-related data
-- Focused on modular architecture, API-driven development, and production-oriented code
+- Built a full-stack **AI-powered study platform** using the **MERN stack**, enabling users to upload study documents and generate intelligent learning resources.
+- Integrated **Google Gemini AI** to provide **document-aware AI chat**, **automatic summaries**, **AI-generated quizzes**, and **interactive flashcards** from uploaded PDFs.
+- Developed scalable **RESTful APIs** using **Node.js** and **Express.js**, implementing **JWT authentication**, authorization middleware, secure file uploads, and centralized error handling.
+- Designed efficient **MongoDB** schemas with **Mongoose** for users, documents, quizzes, flashcards, chat history, summaries, and dashboard analytics.
+- Built a complete **Quiz Engine** featuring AI-generated questions, automatic scoring, progress tracking, detailed question review, and learning analytics.
+- Developed an interactive **Flashcard Learning System** with card flip animations, review tracking, starred cards, navigation controls, and progress visualization.
+- Architected the frontend using **React**, **TypeScript**, **Redux Toolkit**, **Tailwind CSS**, and a scalable **feature-based architecture** with reusable components and centralized API communication.
+- Optimized user experience through efficient state management, responsive UI design, reusable dialogs, loading/error handling, and dashboard updates without unnecessary API requests.
 
 ---
 
