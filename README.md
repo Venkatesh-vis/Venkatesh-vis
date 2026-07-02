@@ -92,7 +92,7 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 <p align="center">
   <a href="https://ai-learning-assistant-peach.vercel.app" target="_blank">
     <img
-      src="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/assets/ai_app-B5Y_LHSD.png"
+      src="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/assets/ai-BgxthFzL.png"
       alt="AI-Powered Study Platform"
       width="900"
     />
