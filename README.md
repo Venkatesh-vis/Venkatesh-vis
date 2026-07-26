@@ -58,6 +58,7 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Mongoose](https://img.shields.io/badge/Mongoose-111827?style=for-the-badge&logo=mongoose&logoColor=880000)
+![Sequelize](https://img.shields.io/badge/Sequelize-111827?style=for-the-badge&logo=sequelize&logoColor=52B0E7)
 
 ## Development Tools & Cloud
 
@@ -65,6 +66,7 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
