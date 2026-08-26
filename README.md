@@ -1,11 +1,16 @@
+
+<!-- Header Banner -->
+
 <div align="center">
 
-# Venkatesh Vishwanadula
-
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;MERN+Stack+Developer;React+%2B+Node.js+Developer;TypeScript+Developer;Frontend+%2B+Backend+Engineer" 
-  alt="Typing SVG" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Venkatesh%20Vishwanadula&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Backend%20%7C%20Full%20Stack%20Engineer&descAlignY=60&descSize=18&descColor=a78bfa"
+  alt="Venkatesh Vishwanadula - Frontend | Backend | Full Stack Engineer"
 />
+
+</div>
+
+<div align="center">
 
 <p>
 Building scalable and production-ready full-stack web applications using React, Node.js, TypeScript, and modern JavaScript technologies.
@@ -17,9 +22,12 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 
 </div>
 
----
-
 # About Me
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 - Full Stack Engineer with **1+ year of professional experience**
 - Experience building scalable web applications using **React.js**, **Next.js**, **Node.js**, and **TypeScript**
@@ -27,6 +35,21 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 - Worked on API integrations, state management, backend workflows, and responsive UI systems
 - Passionate about writing clean, maintainable, and production-oriented code
 - Continuously improving in scalable application design, performance optimization, and system architecture
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img 
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+  width="100%"
+  alt="Coding"
+/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -140,11 +163,14 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 
 ---
 
-  <img
-    src="https://komarev.com/ghpvc/?username=Venkatesh-vis&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
+<div align="center">
 
+<img
+  src="https://komarev.com/ghpvc/?username=Venkatesh-vis&label=Profile%20views&color=0e75b6&style=flat"
+  alt="Profile views"
+/>
+
+</div>
 
 ---
 
@@ -156,21 +182,24 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
   <img 
     src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" 
     alt="Resume"
-  />
+/>
 </a>
 
 <a href="https://www.linkedin.com/in/venkatesh-vishwanadula-57a53318b/" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="LinkedIn"
-  />
+/>
 </a>
 
 <a href="https://portfolio-sigma-ten-auyltbzoy2.vercel.app/" target="_blank">
   <img 
     src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" 
     alt="Portfolio"
-  />
+/>
 </a>
 
 </div>
+
+---
+
