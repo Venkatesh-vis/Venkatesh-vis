@@ -59,12 +59,14 @@ Focused on frontend architecture, backend systems, API integrations, real-time a
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Redux](https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Material UI](https://img.shields.io/badge/Material_UI-111827?style=for-the-badge&logo=mui&logoColor=007FFF)
+[![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=FFFFFF)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Redux](https://img.shields.io/badge/Redux-111827?style=for-the-badge&logo=redux&logoColor=764ABC)](https://redux.js.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+[![Material UI](https://img.shields.io/badge/Material_UI-111827?style=for-the-badge&logo=mui&logoColor=007FFF)](https://mui.com/)
+
 
 ## Backend
 
